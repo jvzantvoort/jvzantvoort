@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/jvzantvoort/sbcmd/pull/25) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
-2. 🎉 Merged PR [#24](https://github.com/jvzantvoort/sbcmd/pull/24) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
-3. 🎉 Merged PR [#23](https://github.com/jvzantvoort/sbcmd/pull/23) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
-4. 🎉 Merged PR [#23](https://github.com/jvzantvoort/docker-sbimage/pull/23) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-5. 🎉 Merged PR [#21](https://github.com/jvzantvoort/docker-sbimage/pull/21) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+1. 🎉 Merged PR [#44](https://github.com/jvzantvoort/sbcmd/pull/44) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
+2. 🎉 Merged PR [#43](https://github.com/jvzantvoort/sbcmd/pull/43) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
+3. 🎉 Merged PR [#42](https://github.com/jvzantvoort/sbcmd/pull/42) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
+4. 🎉 Merged PR [#41](https://github.com/jvzantvoort/docker-sbimage/pull/41) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+5. 🎉 Merged PR [#42](https://github.com/jvzantvoort/docker-sbimage/pull/42) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
 <!--END_SECTION:activity-->
 
 ---
