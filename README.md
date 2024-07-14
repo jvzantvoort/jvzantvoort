@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Templated paths in configuration file](https://github.com/jvzantvoort/gextend-bash/releases/tag/0.0.4) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
-2. 🚀 Published release [working logging config](https://github.com/jvzantvoort/gextend-bash/releases/tag/0.0.3) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
-3. 🚀 Published release [Minor fix](https://github.com/jvzantvoort/gextend-bash/releases/tag/0.0.1) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
-4. 🚀 Published release [Initial version](https://github.com/jvzantvoort/gextend-bash/releases/tag/0.0.0) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
-5. 🎉 Merged PR [#76](https://github.com/jvzantvoort/docker-sbimage/pull/76) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+1. 🎉 Merged PR [#3](https://github.com/jvzantvoort/goproj/pull/3) in [jvzantvoort/goproj](https://github.com/jvzantvoort/goproj)
+2. 💪 Opened PR [#3](https://github.com/jvzantvoort/goproj/pull/3) in [jvzantvoort/goproj](https://github.com/jvzantvoort/goproj)
+3. ❌ Closed PR [#2](https://github.com/jvzantvoort/goproj/pull/2) in [jvzantvoort/goproj](https://github.com/jvzantvoort/goproj)
+4. 💪 Opened PR [#2](https://github.com/jvzantvoort/goproj/pull/2) in [jvzantvoort/goproj](https://github.com/jvzantvoort/goproj)
+5. 🚀 Published release [new development aproach](https://github.com/jvzantvoort/goproj/releases/tag/0.5.0) in [jvzantvoort/goproj](https://github.com/jvzantvoort/goproj)
 <!--END_SECTION:activity-->
 
 ---
