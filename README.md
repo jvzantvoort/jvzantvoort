@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/jvzantvoort/docker-sbimage/pull/79) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-2. 💪 Opened PR [#1](https://github.com/jvzantvoort/gextend-bash/pull/1) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
-3. 🎉 Merged PR [#78](https://github.com/jvzantvoort/docker-sbimage/pull/78) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-4. 🎉 Merged PR [#77](https://github.com/jvzantvoort/docker-sbimage/pull/77) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-5. 🎉 Merged PR [#77](https://github.com/jvzantvoort/sbcmd/pull/77) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
+1. 🎉 Merged PR [#1](https://github.com/jvzantvoort/ansible-collection-jdc-lab/pull/1) in [jvzantvoort/ansible-collection-jdc-lab](https://github.com/jvzantvoort/ansible-collection-jdc-lab)
+2. 💪 Opened PR [#1](https://github.com/jvzantvoort/ansible-collection-jdc-lab/pull/1) in [jvzantvoort/ansible-collection-jdc-lab](https://github.com/jvzantvoort/ansible-collection-jdc-lab)
+3. 🎉 Merged PR [#79](https://github.com/jvzantvoort/docker-sbimage/pull/79) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+4. 💪 Opened PR [#1](https://github.com/jvzantvoort/gextend-bash/pull/1) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
+5. 🎉 Merged PR [#78](https://github.com/jvzantvoort/docker-sbimage/pull/78) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
 <!--END_SECTION:activity-->
 
 ---
