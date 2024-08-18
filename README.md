@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/jvzantvoort/docker-sbimage/pull/80) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-2. 🚀 Published release [Add random message option](https://github.com/jvzantvoort/git-ci/releases/tag/git-ci-0.3.2) in [jvzantvoort/git-ci](https://github.com/jvzantvoort/git-ci)
-3. 🎉 Merged PR [#3](https://github.com/jvzantvoort/git-ci/pull/3) in [jvzantvoort/git-ci](https://github.com/jvzantvoort/git-ci)
-4. 💪 Opened PR [#3](https://github.com/jvzantvoort/git-ci/pull/3) in [jvzantvoort/git-ci](https://github.com/jvzantvoort/git-ci)
-5. 🚀 Published release [Code improvements](https://github.com/jvzantvoort/git-ci/releases/tag/git-ci-0.3.1) in [jvzantvoort/git-ci](https://github.com/jvzantvoort/git-ci)
+1. 🎉 Merged PR [#15](https://github.com/jvzantvoort/tmux-project/pull/15) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+2. 💪 Opened PR [#15](https://github.com/jvzantvoort/tmux-project/pull/15) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+3. 🎉 Merged PR [#80](https://github.com/jvzantvoort/docker-sbimage/pull/80) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+4. 🚀 Published release [Add random message option](https://github.com/jvzantvoort/git-ci/releases/tag/git-ci-0.3.2) in [jvzantvoort/git-ci](https://github.com/jvzantvoort/git-ci)
+5. 🎉 Merged PR [#3](https://github.com/jvzantvoort/git-ci/pull/3) in [jvzantvoort/git-ci](https://github.com/jvzantvoort/git-ci)
 <!--END_SECTION:activity-->
 
 ---
