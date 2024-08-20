@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Extensive messing about without purpose](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.7.0) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-2. 🎉 Merged PR [#17](https://github.com/jvzantvoort/tmux-project/pull/17) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-3. 💪 Opened PR [#17](https://github.com/jvzantvoort/tmux-project/pull/17) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-4. 🎉 Merged PR [#16](https://github.com/jvzantvoort/tmux-project/pull/16) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-5. 💪 Opened PR [#16](https://github.com/jvzantvoort/tmux-project/pull/16) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+1. 🚀 Published release [fortune-0.0.2](https://github.com/jvzantvoort/fortune/releases/tag/fortune-0.0.2) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
+2. 🎉 Merged PR [#2](https://github.com/jvzantvoort/fortune/pull/2) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
+3. 💪 Opened PR [#2](https://github.com/jvzantvoort/fortune/pull/2) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
+4. 🚀 Published release [fortune-0.0.1](https://github.com/jvzantvoort/fortune/releases/tag/fortune-0.0.1) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
+5. 🎉 Merged PR [#1](https://github.com/jvzantvoort/fortune/pull/1) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
 <!--END_SECTION:activity-->
 
 ---
