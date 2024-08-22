@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/jvzantvoort/fortune/pull/4) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
-2. 💪 Opened PR [#4](https://github.com/jvzantvoort/fortune/pull/4) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
-3. 🚀 Published release [fortune-0.0.5 S is for stupid](https://github.com/jvzantvoort/fortune/releases/tag/fortune-0.0.5) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
-4. 🎉 Merged PR [#3](https://github.com/jvzantvoort/fortune/pull/3) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
-5. 💪 Opened PR [#3](https://github.com/jvzantvoort/fortune/pull/3) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
+1. 🚀 Published release [Don't drink and tag](https://github.com/jvzantvoort/fortune/releases/tag/fortune-0.0.7) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
+2. 🎉 Merged PR [#4](https://github.com/jvzantvoort/fortune/pull/4) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
+3. 💪 Opened PR [#4](https://github.com/jvzantvoort/fortune/pull/4) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
+4. 🚀 Published release [fortune-0.0.5 S is for stupid](https://github.com/jvzantvoort/fortune/releases/tag/fortune-0.0.5) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
+5. 🎉 Merged PR [#3](https://github.com/jvzantvoort/fortune/pull/3) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
 <!--END_SECTION:activity-->
 
 ---
