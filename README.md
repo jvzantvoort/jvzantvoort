@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#82](https://github.com/jvzantvoort/docker-sbimage/pull/82) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-2. 💪 Opened PR [#82](https://github.com/jvzantvoort/docker-sbimage/pull/82) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-3. 💪 Opened PR [#1](https://github.com/jvzantvoort/jvzantvoort-vim-config/pull/1) in [jvzantvoort/jvzantvoort-vim-config](https://github.com/jvzantvoort/jvzantvoort-vim-config)
-4. 🎉 Merged PR [#81](https://github.com/jvzantvoort/docker-sbimage/pull/81) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-5. 🎉 Merged PR [#78](https://github.com/jvzantvoort/sbcmd/pull/78) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
+1. 🎉 Merged PR [#79](https://github.com/jvzantvoort/sbcmd/pull/79) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
+2. 💪 Opened PR [#79](https://github.com/jvzantvoort/sbcmd/pull/79) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
+3. 🎉 Merged PR [#82](https://github.com/jvzantvoort/docker-sbimage/pull/82) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+4. 💪 Opened PR [#82](https://github.com/jvzantvoort/docker-sbimage/pull/82) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+5. 💪 Opened PR [#1](https://github.com/jvzantvoort/jvzantvoort-vim-config/pull/1) in [jvzantvoort/jvzantvoort-vim-config](https://github.com/jvzantvoort/jvzantvoort-vim-config)
 <!--END_SECTION:activity-->
 
 ---
