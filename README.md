@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/jvzantvoort/sbcmd/pull/79) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
-2. 💪 Opened PR [#79](https://github.com/jvzantvoort/sbcmd/pull/79) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
-3. 🎉 Merged PR [#82](https://github.com/jvzantvoort/docker-sbimage/pull/82) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-4. 💪 Opened PR [#82](https://github.com/jvzantvoort/docker-sbimage/pull/82) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-5. 💪 Opened PR [#1](https://github.com/jvzantvoort/jvzantvoort-vim-config/pull/1) in [jvzantvoort/jvzantvoort-vim-config](https://github.com/jvzantvoort/jvzantvoort-vim-config)
+1. 🚀 Published release [Add tests and shell extensions](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.7.4) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+2. 🎉 Merged PR [#19](https://github.com/jvzantvoort/tmux-project/pull/19) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+3. 🎉 Merged PR [#20](https://github.com/jvzantvoort/tmux-project/pull/20) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+4. 💪 Opened PR [#20](https://github.com/jvzantvoort/tmux-project/pull/20) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+5. 🎉 Merged PR [#79](https://github.com/jvzantvoort/sbcmd/pull/79) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
 <!--END_SECTION:activity-->
 
 ---
