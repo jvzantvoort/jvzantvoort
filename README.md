@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/jvzantvoort/ansible-collection-jdc-network/pull/2) in [jvzantvoort/ansible-collection-jdc-network](https://github.com/jvzantvoort/ansible-collection-jdc-network)
-2. 💪 Opened PR [#2](https://github.com/jvzantvoort/ansible-collection-jdc-network/pull/2) in [jvzantvoort/ansible-collection-jdc-network](https://github.com/jvzantvoort/ansible-collection-jdc-network)
-3. 🎉 Merged PR [#1](https://github.com/jvzantvoort/ansible-collection-jdc-network/pull/1) in [jvzantvoort/ansible-collection-jdc-network](https://github.com/jvzantvoort/ansible-collection-jdc-network)
-4. 💪 Opened PR [#1](https://github.com/jvzantvoort/ansible-collection-jdc-network/pull/1) in [jvzantvoort/ansible-collection-jdc-network](https://github.com/jvzantvoort/ansible-collection-jdc-network)
-5. 🚀 Published release [Add maxdepth to proj_info](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.8.1) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+1. 🎉 Merged PR [#3](https://github.com/jvzantvoort/ansible-collection-jdc-network/pull/3) in [jvzantvoort/ansible-collection-jdc-network](https://github.com/jvzantvoort/ansible-collection-jdc-network)
+2. 💪 Opened PR [#3](https://github.com/jvzantvoort/ansible-collection-jdc-network/pull/3) in [jvzantvoort/ansible-collection-jdc-network](https://github.com/jvzantvoort/ansible-collection-jdc-network)
+3. 🎉 Merged PR [#2](https://github.com/jvzantvoort/ansible-collection-jdc-network/pull/2) in [jvzantvoort/ansible-collection-jdc-network](https://github.com/jvzantvoort/ansible-collection-jdc-network)
+4. 💪 Opened PR [#2](https://github.com/jvzantvoort/ansible-collection-jdc-network/pull/2) in [jvzantvoort/ansible-collection-jdc-network](https://github.com/jvzantvoort/ansible-collection-jdc-network)
+5. 🎉 Merged PR [#1](https://github.com/jvzantvoort/ansible-collection-jdc-network/pull/1) in [jvzantvoort/ansible-collection-jdc-network](https://github.com/jvzantvoort/ansible-collection-jdc-network)
 <!--END_SECTION:activity-->
 
 ---
