@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [bash update](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.8.2) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-2. 🎉 Merged PR [#23](https://github.com/jvzantvoort/tmux-project/pull/23) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-3. 💪 Opened PR [#23](https://github.com/jvzantvoort/tmux-project/pull/23) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-4. 🎉 Merged PR [#85](https://github.com/jvzantvoort/docker-sbimage/pull/85) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-5. 🎉 Merged PR [#82](https://github.com/jvzantvoort/sbcmd/pull/82) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
+1. 🎉 Merged PR [#88](https://github.com/jvzantvoort/sbcmd/pull/88) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
+2. 💪 Opened PR [#88](https://github.com/jvzantvoort/sbcmd/pull/88) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
+3. 🎉 Merged PR [#87](https://github.com/jvzantvoort/sbcmd/pull/87) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
+4. 🎉 Merged PR [#91](https://github.com/jvzantvoort/docker-sbimage/pull/91) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+5. 🎉 Merged PR [#86](https://github.com/jvzantvoort/sbcmd/pull/86) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
 <!--END_SECTION:activity-->
 
 ---
