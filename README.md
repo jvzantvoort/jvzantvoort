@@ -5,8 +5,8 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.8](https://github.com/jvzantvoort/gextend-bash/releases/tag/0.0.8) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
-2. 🎉 Merged PR [#5](https://github.com/jvzantvoort/gextend-bash/pull/5) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
+1. 🎉 Merged PR [#92](https://github.com/jvzantvoort/docker-sbimage/pull/92) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+2. 🎉 Merged PR [#89](https://github.com/jvzantvoort/sbcmd/pull/89) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
 3. 💪 Opened PR [#5](https://github.com/jvzantvoort/gextend-bash/pull/5) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
 4. 🚀 Published release [0.0.7](https://github.com/jvzantvoort/gextend-bash/releases/tag/0.0.7) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
 5. 🎉 Merged PR [#4](https://github.com/jvzantvoort/gextend-bash/pull/4) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
