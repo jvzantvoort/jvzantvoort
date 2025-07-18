@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jvzantvoort/ansible-collection-jvzantvoort-home/pull/1) in [jvzantvoort/ansible-collection-jvzantvoort-home](https://github.com/jvzantvoort/ansible-collection-jvzantvoort-home)
-2. 💪 Opened PR [#1](https://github.com/jvzantvoort/ansible-collection-jvzantvoort-home/pull/1) in [jvzantvoort/ansible-collection-jvzantvoort-home](https://github.com/jvzantvoort/ansible-collection-jvzantvoort-home)
-3. 🎉 Merged PR [#91](https://github.com/jvzantvoort/sbcmd/pull/91) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
-4. 🎉 Merged PR [#90](https://github.com/jvzantvoort/sbcmd/pull/90) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
-5. 🎉 Merged PR [#94](https://github.com/jvzantvoort/docker-sbimage/pull/94) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+1. 🎉 Merged PR [#25](https://github.com/jvzantvoort/tmux-project/pull/25) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+2. 💪 Opened PR [#25](https://github.com/jvzantvoort/tmux-project/pull/25) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+3. 🎉 Merged PR [#1](https://github.com/jvzantvoort/ansible-collection-jvzantvoort-home/pull/1) in [jvzantvoort/ansible-collection-jvzantvoort-home](https://github.com/jvzantvoort/ansible-collection-jvzantvoort-home)
+4. 💪 Opened PR [#1](https://github.com/jvzantvoort/ansible-collection-jvzantvoort-home/pull/1) in [jvzantvoort/ansible-collection-jvzantvoort-home](https://github.com/jvzantvoort/ansible-collection-jvzantvoort-home)
+5. 🎉 Merged PR [#91](https://github.com/jvzantvoort/sbcmd/pull/91) in [jvzantvoort/sbcmd](https://github.com/jvzantvoort/sbcmd)
 <!--END_SECTION:activity-->
 
 ---
