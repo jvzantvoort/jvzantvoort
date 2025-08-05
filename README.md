@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [tmux-project-0.10.2](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.10.2) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-2. 🎉 Merged PR [#28](https://github.com/jvzantvoort/tmux-project/pull/28) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-3. 💪 Opened PR [#28](https://github.com/jvzantvoort/tmux-project/pull/28) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-4. 🚀 Published release [tmux-project-0.10.1](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.10.1) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-5. 🎉 Merged PR [#27](https://github.com/jvzantvoort/tmux-project/pull/27) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+1. 🚀 Published release [Update external packages](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.11.0) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+2. 🎉 Merged PR [#29](https://github.com/jvzantvoort/tmux-project/pull/29) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+3. 💪 Opened PR [#29](https://github.com/jvzantvoort/tmux-project/pull/29) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+4. 🚀 Published release [tmux-project-0.10.2](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.10.2) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+5. 🎉 Merged PR [#28](https://github.com/jvzantvoort/tmux-project/pull/28) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
 <!--END_SECTION:activity-->
 
 ---
