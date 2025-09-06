@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/jvzantvoort/goproj/pull/5) in [jvzantvoort/goproj](https://github.com/jvzantvoort/goproj)
-2. 💪 Opened PR [#5](https://github.com/jvzantvoort/goproj/pull/5) in [jvzantvoort/goproj](https://github.com/jvzantvoort/goproj)
-3. 🎉 Merged PR [#4](https://github.com/jvzantvoort/goproj/pull/4) in [jvzantvoort/goproj](https://github.com/jvzantvoort/goproj)
-4. 💪 Opened PR [#4](https://github.com/jvzantvoort/goproj/pull/4) in [jvzantvoort/goproj](https://github.com/jvzantvoort/goproj)
-5. 🎉 Merged PR [#30](https://github.com/jvzantvoort/tmux-project/pull/30) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+1. 💪 Opened PR [#6](https://github.com/jvzantvoort/goproj/pull/6) in [jvzantvoort/goproj](https://github.com/jvzantvoort/goproj)
+2. 🎉 Merged PR [#5](https://github.com/jvzantvoort/goproj/pull/5) in [jvzantvoort/goproj](https://github.com/jvzantvoort/goproj)
+3. 💪 Opened PR [#5](https://github.com/jvzantvoort/goproj/pull/5) in [jvzantvoort/goproj](https://github.com/jvzantvoort/goproj)
+4. 🎉 Merged PR [#4](https://github.com/jvzantvoort/goproj/pull/4) in [jvzantvoort/goproj](https://github.com/jvzantvoort/goproj)
+5. 💪 Opened PR [#4](https://github.com/jvzantvoort/goproj/pull/4) in [jvzantvoort/goproj](https://github.com/jvzantvoort/goproj)
 <!--END_SECTION:activity-->
 
 ---
