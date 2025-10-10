@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/jvzantvoort/docker-sbimage/pull/95) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-2. 🚀 Published release [Update the code](https://github.com/jvzantvoort/vimtmpl/releases/tag/vimtmpl-1.0.0) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
-3. 🎉 Merged PR [#3](https://github.com/jvzantvoort/vimtmpl/pull/3) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
-4. 💪 Opened PR [#3](https://github.com/jvzantvoort/vimtmpl/pull/3) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
-5. 🎉 Merged PR [#4](https://github.com/jvzantvoort/goproj/pull/4) in [jvzantvoort/goproj](https://github.com/jvzantvoort/goproj)
+1. 💪 Opened PR [#98](https://github.com/jvzantvoort/docker-sbimage/pull/98) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+2. 🎉 Merged PR [#97](https://github.com/jvzantvoort/docker-sbimage/pull/97) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+3. 💪 Opened PR [#97](https://github.com/jvzantvoort/docker-sbimage/pull/97) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+4. 🎉 Merged PR [#96](https://github.com/jvzantvoort/docker-sbimage/pull/96) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+5. 💪 Opened PR [#96](https://github.com/jvzantvoort/docker-sbimage/pull/96) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
 <!--END_SECTION:activity-->
 
 ---
