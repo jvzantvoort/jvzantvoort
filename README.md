@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [jvzantvoort/gstow](https://github.com/jvzantvoort/gstow)
-2. 💪 Opened PR [#98](undefined) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-3. 💪 Opened PR [#97](undefined) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-4. 💪 Opened PR [#96](undefined) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-5. 🚀 Published release [Update the code](https://github.com/jvzantvoort/vimtmpl/releases/tag/vimtmpl-1.0.0) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
+1. 💪 Opened PR [#2](undefined) in [jvzantvoort/dotfiles](https://github.com/jvzantvoort/dotfiles)
+2. 💪 Opened PR [#1](undefined) in [jvzantvoort/gstow](https://github.com/jvzantvoort/gstow)
+3. 💪 Opened PR [#98](undefined) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+4. 💪 Opened PR [#97](undefined) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+5. 💪 Opened PR [#96](undefined) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
 <!--END_SECTION:activity-->
 
 ---
