@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
-2. 💪 Opened PR [#1](undefined) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
-3. 💪 Opened PR [#2](undefined) in [jvzantvoort/dotfiles](https://github.com/jvzantvoort/dotfiles)
-4. 💪 Opened PR [#1](undefined) in [jvzantvoort/gstow](https://github.com/jvzantvoort/gstow)
-5. 💪 Opened PR [#98](undefined) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+1. 🚀 Published release [test release](https://github.com/jvzantvoort/bundle/releases/tag/bundle-0.0.2) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
+2. 💪 Opened PR [#6](undefined) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
+3. 💪 Opened PR [#5](undefined) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
+4. 💪 Opened PR [#4](undefined) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
+5. 🚀 Published release [Update build and code](https://github.com/jvzantvoort/bundle/releases/tag/v0.1.0) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
 <!--END_SECTION:activity-->
 
 ---
