@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-2. 💪 Opened PR [#7](undefined) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
-3. 🚀 Published release [test release](https://github.com/jvzantvoort/bundle/releases/tag/bundle-0.0.2) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
-4. 💪 Opened PR [#6](undefined) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
-5. 💪 Opened PR [#5](undefined) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
+1. 🚀 Published release [Update actions](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.13.0) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+2. 💪 Opened PR [#32](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+3. 💪 Opened PR [#31](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+4. 💪 Opened PR [#7](undefined) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
+5. 🚀 Published release [test release](https://github.com/jvzantvoort/bundle/releases/tag/bundle-0.0.2) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
 <!--END_SECTION:activity-->
 
 ---
