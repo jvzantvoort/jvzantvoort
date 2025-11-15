@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Lets see if the build works now ...](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.14.4) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-2. 💪 Opened PR [#35](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-3. 💪 Opened PR [#34](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-4. 🚀 Published release [tmux-project-0.14.0](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.14.0) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-5. 💪 Opened PR [#33](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+1. 💪 Opened PR [#36](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+2. 🚀 Published release [Lets see if the build works now ...](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.14.4) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+3. 💪 Opened PR [#35](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+4. 💪 Opened PR [#34](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+5. 🚀 Published release [tmux-project-0.14.0](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.14.0) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
 <!--END_SECTION:activity-->
 
 ---
