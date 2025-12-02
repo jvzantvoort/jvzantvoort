@@ -6,10 +6,10 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [tmux-project-0.16.2](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.16.2) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-2. 💪 Opened PR [#40](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-3. 💪 Opened PR [#39](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-4. 🚀 Published release [tmux-project-0.16.1](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.16.1) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-5. 💪 Opened PR [#38](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+2. ❌ Merged PR [#40](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+3. 💪 Opened PR [#40](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+4. ❌ Merged PR [#39](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+5. 💪 Opened PR [#39](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
 <!--END_SECTION:activity-->
 
 ---
