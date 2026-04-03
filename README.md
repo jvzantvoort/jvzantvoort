@@ -5,8 +5,8 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/jvdbreggen/image-mode-arcade/issues/1) in [jvdbreggen/image-mode-arcade](https://github.com/jvdbreggen/image-mode-arcade)
-2. 🎉 Merged PR [#3](https://github.com/jvzantvoort/scmt/pull/3) in [jvzantvoort/scmt](https://github.com/jvzantvoort/scmt)
+1. 💪 Opened PR [#121](https://github.com/jvzantvoort/docker-sbimage/pull/121) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+2. ❗ Opened issue [#1](https://github.com/jvdbreggen/image-mode-arcade/issues/1) in [jvdbreggen/image-mode-arcade](https://github.com/jvdbreggen/image-mode-arcade)
 3. 💪 Opened PR [#3](https://github.com/jvzantvoort/scmt/pull/3) in [jvzantvoort/scmt](https://github.com/jvzantvoort/scmt)
 4. ❌ Merged PR [#39](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
 5. 💪 Opened PR [#39](undefined) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
