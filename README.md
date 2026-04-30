@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/jvzantvoort/shiori-linkmgr/releases/tag/v0.1.0) in [jvzantvoort/shiori-linkmgr](https://github.com/jvzantvoort/shiori-linkmgr)
-2. 🎉 Merged PR [#3](https://github.com/jvzantvoort/shiori-linkmgr/pull/3) in [jvzantvoort/shiori-linkmgr](https://github.com/jvzantvoort/shiori-linkmgr)
-3. 💪 Opened PR [#3](https://github.com/jvzantvoort/shiori-linkmgr/pull/3) in [jvzantvoort/shiori-linkmgr](https://github.com/jvzantvoort/shiori-linkmgr)
-4. 🎉 Merged PR [#2](https://github.com/jvzantvoort/shiori-linkmgr/pull/2) in [jvzantvoort/shiori-linkmgr](https://github.com/jvzantvoort/shiori-linkmgr)
-5. 💪 Opened PR [#2](https://github.com/jvzantvoort/shiori-linkmgr/pull/2) in [jvzantvoort/shiori-linkmgr](https://github.com/jvzantvoort/shiori-linkmgr)
+1. 🚀 Published release [v0.1.1](https://github.com/jvzantvoort/scanner/releases/tag/v0.1.1) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
+2. 🎉 Merged PR [#18](https://github.com/jvzantvoort/scanner/pull/18) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
+3. 🗣 Commented on [#18](https://github.com/jvzantvoort/scanner/pull/18#issuecomment-4352380562) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
+4. 💪 Opened PR [#18](https://github.com/jvzantvoort/scanner/pull/18) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
+5. 🚀 Published release [First release](https://github.com/jvzantvoort/scanner/releases/tag/v0.1.0) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
 <!--END_SECTION:activity-->
 
 ---
