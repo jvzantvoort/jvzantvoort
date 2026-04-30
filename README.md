@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/jvzantvoort/tmux-project/pull/60) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-2. 💪 Opened PR [#60](https://github.com/jvzantvoort/tmux-project/pull/60) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-3. 🎉 Merged PR [#59](https://github.com/jvzantvoort/tmux-project/pull/59) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-4. 💪 Opened PR [#59](https://github.com/jvzantvoort/tmux-project/pull/59) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-5. 🎉 Merged PR [#58](https://github.com/jvzantvoort/tmux-project/pull/58) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+1. 🗣 Commented on [#9](https://github.com/jvzantvoort/scanner/pull/9#issuecomment-4353725983) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
+2. ❌ Closed PR [#9](https://github.com/jvzantvoort/scanner/pull/9) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
+3. 🗣 Commented on [#9](https://github.com/jvzantvoort/scanner/pull/9#issuecomment-4353696499) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
+4. 🚀 Published release [Update workflows and code linting](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.17.0) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+5. 🎉 Merged PR [#60](https://github.com/jvzantvoort/tmux-project/pull/60) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
 <!--END_SECTION:activity-->
 
 ---
