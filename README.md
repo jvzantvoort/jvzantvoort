@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/jvzantvoort/mktodo/pull/1) in [jvzantvoort/mktodo](https://github.com/jvzantvoort/mktodo)
-2. 💪 Opened PR [#1](https://github.com/jvzantvoort/mktodo/pull/1) in [jvzantvoort/mktodo](https://github.com/jvzantvoort/mktodo)
-3. ❌ Closed PR [#98](https://github.com/jvzantvoort/docker-sbimage/pull/98) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-4. ❌ Closed PR [#114](https://github.com/jvzantvoort/docker-sbimage/pull/114) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-5. 🗣 Commented on [#9](https://github.com/jvzantvoort/scanner/pull/9#issuecomment-4353725983) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
+1. 🚀 Published release [Fix achelper](https://github.com/jvzantvoort/gextend-bash/releases/tag/0.1.1) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
+2. 🎉 Merged PR [#8](https://github.com/jvzantvoort/gextend-bash/pull/8) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
+3. 💪 Opened PR [#8](https://github.com/jvzantvoort/gextend-bash/pull/8) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
+4. 🎉 Merged PR [#7](https://github.com/jvzantvoort/gextend-bash/pull/7) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
+5. 💪 Opened PR [#7](https://github.com/jvzantvoort/gextend-bash/pull/7) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
 <!--END_SECTION:activity-->
 
 ---
