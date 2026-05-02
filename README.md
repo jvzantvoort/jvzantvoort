@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/jvzantvoort/mktodo/pull/1) in [jvzantvoort/mktodo](https://github.com/jvzantvoort/mktodo)
-2. ❌ Closed PR [#98](https://github.com/jvzantvoort/docker-sbimage/pull/98) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-3. ❌ Closed PR [#114](https://github.com/jvzantvoort/docker-sbimage/pull/114) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
-4. 🗣 Commented on [#9](https://github.com/jvzantvoort/scanner/pull/9#issuecomment-4353725983) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
-5. ❌ Closed PR [#9](https://github.com/jvzantvoort/scanner/pull/9) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
+1. ❌ Closed PR [#1](https://github.com/jvzantvoort/mktodo/pull/1) in [jvzantvoort/mktodo](https://github.com/jvzantvoort/mktodo)
+2. 💪 Opened PR [#1](https://github.com/jvzantvoort/mktodo/pull/1) in [jvzantvoort/mktodo](https://github.com/jvzantvoort/mktodo)
+3. ❌ Closed PR [#98](https://github.com/jvzantvoort/docker-sbimage/pull/98) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+4. ❌ Closed PR [#114](https://github.com/jvzantvoort/docker-sbimage/pull/114) in [jvzantvoort/docker-sbimage](https://github.com/jvzantvoort/docker-sbimage)
+5. 🗣 Commented on [#9](https://github.com/jvzantvoort/scanner/pull/9#issuecomment-4353725983) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
 <!--END_SECTION:activity-->
 
 ---
