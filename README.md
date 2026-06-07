@@ -5,7 +5,7 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Fix achelper](https://github.com/jvzantvoort/gextend-bash/releases/tag/0.1.1) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
+1. 💪 Opened PR [#4](https://github.com/jvzantvoort/vimtmpl/pull/4) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
 2. 🎉 Merged PR [#8](https://github.com/jvzantvoort/gextend-bash/pull/8) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
 3. 💪 Opened PR [#8](https://github.com/jvzantvoort/gextend-bash/pull/8) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
 4. 🎉 Merged PR [#7](https://github.com/jvzantvoort/gextend-bash/pull/7) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
