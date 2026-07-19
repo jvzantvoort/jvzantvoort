@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Update shared shell settings](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.17.2) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-2. 🎉 Merged PR [#71](https://github.com/jvzantvoort/tmux-project/pull/71) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-3. 💪 Opened PR [#71](https://github.com/jvzantvoort/tmux-project/pull/71) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-4. 🚀 Published release [Maintenance release consolidating commands, adding tests and update code](https://github.com/jvzantvoort/gextend-bash/releases/tag/0.4.0) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
-5. 🎉 Merged PR [#14](https://github.com/jvzantvoort/gextend-bash/pull/14) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
+1. 🚀 Published release [update dependencies and support scripts](https://github.com/jvzantvoort/vimtmpl/releases/tag/vimtmpl-1.3.0) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
+2. 🎉 Merged PR [#17](https://github.com/jvzantvoort/vimtmpl/pull/17) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
+3. 💪 Opened PR [#17](https://github.com/jvzantvoort/vimtmpl/pull/17) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
+4. 🎉 Merged PR [#16](https://github.com/jvzantvoort/vimtmpl/pull/16) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
+5. 💪 Opened PR [#16](https://github.com/jvzantvoort/vimtmpl/pull/16) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
 <!--END_SECTION:activity-->
 
 ---
