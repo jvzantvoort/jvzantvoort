@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/jvzantvoort/vimtmpl/pull/21) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
-2. 💪 Opened PR [#20](https://github.com/jvzantvoort/gextend-bash/pull/20) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
-3. 🚀 Published release [Add test_result](https://github.com/jvzantvoort/gextend-bash/releases/tag/0.6.0) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
-4. 🎉 Merged PR [#18](https://github.com/jvzantvoort/gextend-bash/pull/18) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
-5. 💪 Opened PR [#18](https://github.com/jvzantvoort/gextend-bash/pull/18) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
+1. 🚀 Published release [Add editor triggering](https://github.com/jvzantvoort/vimtmpl/releases/tag/vimtmpl-2.1.0) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
+2. 🎉 Merged PR [#21](https://github.com/jvzantvoort/vimtmpl/pull/21) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
+3. 💪 Opened PR [#21](https://github.com/jvzantvoort/vimtmpl/pull/21) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
+4. 💪 Opened PR [#20](https://github.com/jvzantvoort/gextend-bash/pull/20) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
+5. 🚀 Published release [Add test_result](https://github.com/jvzantvoort/gextend-bash/releases/tag/0.6.0) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
 <!--END_SECTION:activity-->
 
 ---
