@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/jvzantvoort/vimtmpl/pull/24) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
-2. 💪 Opened PR [#24](https://github.com/jvzantvoort/vimtmpl/pull/24) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
-3. 🎉 Merged PR [#23](https://github.com/jvzantvoort/vimtmpl/pull/23) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
-4. 💪 Opened PR [#23](https://github.com/jvzantvoort/vimtmpl/pull/23) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
-5. 🎉 Merged PR [#22](https://github.com/jvzantvoort/vimtmpl/pull/22) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
+1. 🎉 Merged PR [#1](https://github.com/jvzantvoort/vimtmpl-templates/pull/1) in [jvzantvoort/vimtmpl-templates](https://github.com/jvzantvoort/vimtmpl-templates)
+2. 💪 Opened PR [#1](https://github.com/jvzantvoort/vimtmpl-templates/pull/1) in [jvzantvoort/vimtmpl-templates](https://github.com/jvzantvoort/vimtmpl-templates)
+3. 🎉 Merged PR [#24](https://github.com/jvzantvoort/vimtmpl/pull/24) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
+4. 💪 Opened PR [#24](https://github.com/jvzantvoort/vimtmpl/pull/24) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
+5. 🎉 Merged PR [#23](https://github.com/jvzantvoort/vimtmpl/pull/23) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
 <!--END_SECTION:activity-->
 
 ---
