@@ -5,7 +5,7 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/jvzantvoort/vimtmpl-templates/pull/2) in [jvzantvoort/vimtmpl-templates](https://github.com/jvzantvoort/vimtmpl-templates)
+1. 🗣 Commented on [#81](https://github.com/jvzantvoort/tmux-project/pull/81#issuecomment-5845356850) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
 2. 💪 Opened PR [#2](https://github.com/jvzantvoort/vimtmpl-templates/pull/2) in [jvzantvoort/vimtmpl-templates](https://github.com/jvzantvoort/vimtmpl-templates)
 3. 🎉 Merged PR [#1](https://github.com/jvzantvoort/vimtmpl-templates/pull/1) in [jvzantvoort/vimtmpl-templates](https://github.com/jvzantvoort/vimtmpl-templates)
 4. 💪 Opened PR [#1](https://github.com/jvzantvoort/vimtmpl-templates/pull/1) in [jvzantvoort/vimtmpl-templates](https://github.com/jvzantvoort/vimtmpl-templates)
