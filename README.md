@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/jvzantvoort/gextend-bash/pull/31) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
-2. 🎉 Merged PR [#30](https://github.com/jvzantvoort/gextend-bash/pull/30) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
-3. 🎉 Merged PR [#30](https://github.com/jvzantvoort/vimtmpl/pull/30) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
-4. 🎉 Merged PR [#28](https://github.com/jvzantvoort/vimtmpl/pull/28) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
-5. ℹ️ Labeled PR [#30](https://github.com/jvzantvoort/vimtmpl/pull/30) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
+1. 🎉 Merged PR [#29](https://github.com/jvzantvoort/vimtmpl/pull/29) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
+2. 🎉 Merged PR [#31](https://github.com/jvzantvoort/gextend-bash/pull/31) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
+3. 🎉 Merged PR [#30](https://github.com/jvzantvoort/gextend-bash/pull/30) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
+4. 🎉 Merged PR [#30](https://github.com/jvzantvoort/vimtmpl/pull/30) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
+5. 🎉 Merged PR [#28](https://github.com/jvzantvoort/vimtmpl/pull/28) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
 <!--END_SECTION:activity-->
 
 ---
