@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Reckless AI update](https://github.com/jvzantvoort/tmux-project/releases/tag/tmux-project-0.19.0) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-2. 💪 Opened PR [#88](https://github.com/jvzantvoort/tmux-project/pull/88) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-3. ❌ Closed PR [#81](https://github.com/jvzantvoort/tmux-project/pull/81) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-4. 🎉 Merged PR [#87](https://github.com/jvzantvoort/tmux-project/pull/87) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-5. 💪 Opened PR [#87](https://github.com/jvzantvoort/tmux-project/pull/87) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+1. 💪 Opened PR [#28](https://github.com/jvzantvoort/vimtmpl/pull/28) in [jvzantvoort/vimtmpl](https://github.com/jvzantvoort/vimtmpl)
+2. 💪 Opened PR [#31](https://github.com/jvzantvoort/gextend-bash/pull/31) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
+3. ❌ Closed PR [#23](https://github.com/jvzantvoort/gextend-bash/pull/23) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
+4. 💪 Opened PR [#30](https://github.com/jvzantvoort/gextend-bash/pull/30) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
+5. 🎉 Merged PR [#29](https://github.com/jvzantvoort/gextend-bash/pull/29) in [jvzantvoort/gextend-bash](https://github.com/jvzantvoort/gextend-bash)
 <!--END_SECTION:activity-->
 
 ---
