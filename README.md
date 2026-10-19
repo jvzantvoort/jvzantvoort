@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/jvzantvoort/gogalaxy/pull/3#issuecomment-6248604499) in [jvzantvoort/gogalaxy](https://github.com/jvzantvoort/gogalaxy)
-2. 🗣 Commented on [#2](https://github.com/jvzantvoort/gogalaxy/pull/2#issuecomment-6248604260) in [jvzantvoort/gogalaxy](https://github.com/jvzantvoort/gogalaxy)
-3. 🗣 Commented on [#1](https://github.com/jvzantvoort/gogalaxy/pull/1#issuecomment-6248604050) in [jvzantvoort/gogalaxy](https://github.com/jvzantvoort/gogalaxy)
-4. 🎉 Merged PR [#89](https://github.com/jvzantvoort/tmux-project/pull/89) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
-5. 💪 Opened PR [#89](https://github.com/jvzantvoort/tmux-project/pull/89) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+1. 🎉 Merged PR [#8](https://github.com/jvzantvoort/fortune/pull/8) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
+2. 💪 Opened PR [#9](https://github.com/jvzantvoort/fortune/pull/9) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
+3. 💪 Opened PR [#8](https://github.com/jvzantvoort/fortune/pull/8) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
+4. 🎉 Merged PR [#7](https://github.com/jvzantvoort/fortune/pull/7) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
+5. 💪 Opened PR [#7](https://github.com/jvzantvoort/fortune/pull/7) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
 <!--END_SECTION:activity-->
 
 ---
