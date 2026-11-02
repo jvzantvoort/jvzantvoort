@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/jvzantvoort/fortune/pull/11) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
-2. 💪 Opened PR [#11](https://github.com/jvzantvoort/fortune/pull/11) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
-3. 🎉 Merged PR [#9](https://github.com/jvzantvoort/fortune/pull/9) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
-4. 🎉 Merged PR [#6](https://github.com/jvzantvoort/fortune/pull/6) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
-5. 🎉 Merged PR [#8](https://github.com/jvzantvoort/fortune/pull/8) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
+1. 💪 Opened PR [#10](https://github.com/jvzantvoort/bundle/pull/10) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
+2. ℹ️ Assigned PR [#90](https://github.com/jvzantvoort/tmux-project/pull/90) in [jvzantvoort/tmux-project](https://github.com/jvzantvoort/tmux-project)
+3. 🎉 Merged PR [#8](https://github.com/jvzantvoort/bundle/pull/8) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
+4. 💪 Opened PR [#8](https://github.com/jvzantvoort/bundle/pull/8) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
+5. 🎉 Merged PR [#11](https://github.com/jvzantvoort/fortune/pull/11) in [jvzantvoort/fortune](https://github.com/jvzantvoort/fortune)
 <!--END_SECTION:activity-->
 
 ---
