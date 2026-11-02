@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/jvzantvoort/bundle/pull/11) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
-2. 💪 Opened PR [#11](https://github.com/jvzantvoort/bundle/pull/11) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
-3. 🗣 Commented on [#9](https://github.com/jvzantvoort/bundle/pull/9#issuecomment-6574899438) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
-4. 🎉 Merged PR [#10](https://github.com/jvzantvoort/bundle/pull/10) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
-5. 💪 Opened PR [#10](https://github.com/jvzantvoort/bundle/pull/10) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
+1. 🎉 Merged PR [#14](https://github.com/jvzantvoort/bundle/pull/14) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
+2. 🎉 Merged PR [#13](https://github.com/jvzantvoort/bundle/pull/13) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
+3. 💪 Opened PR [#14](https://github.com/jvzantvoort/bundle/pull/14) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
+4. 💪 Opened PR [#13](https://github.com/jvzantvoort/bundle/pull/13) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
+5. 🎉 Merged PR [#12](https://github.com/jvzantvoort/bundle/pull/12) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
 <!--END_SECTION:activity-->
 
 ---
