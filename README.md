@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/jvzantvoort/mktodo/pull/5) in [jvzantvoort/mktodo](https://github.com/jvzantvoort/mktodo)
-2. 💪 Opened PR [#5](https://github.com/jvzantvoort/mktodo/pull/5) in [jvzantvoort/mktodo](https://github.com/jvzantvoort/mktodo)
-3. 🎉 Merged PR [#4](https://github.com/jvzantvoort/mktodo/pull/4) in [jvzantvoort/mktodo](https://github.com/jvzantvoort/mktodo)
-4. 💪 Opened PR [#4](https://github.com/jvzantvoort/mktodo/pull/4) in [jvzantvoort/mktodo](https://github.com/jvzantvoort/mktodo)
-5. 🗣 Commented on [#47](https://github.com/jvzantvoort/scanner/pull/47#issuecomment-6614624299) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
+1. 🎉 Merged PR [#7](https://github.com/jvzantvoort/mktodo/pull/7) in [jvzantvoort/mktodo](https://github.com/jvzantvoort/mktodo)
+2. 💪 Opened PR [#7](https://github.com/jvzantvoort/mktodo/pull/7) in [jvzantvoort/mktodo](https://github.com/jvzantvoort/mktodo)
+3. 🎉 Merged PR [#6](https://github.com/jvzantvoort/mktodo/pull/6) in [jvzantvoort/mktodo](https://github.com/jvzantvoort/mktodo)
+4. 💪 Opened PR [#6](https://github.com/jvzantvoort/mktodo/pull/6) in [jvzantvoort/mktodo](https://github.com/jvzantvoort/mktodo)
+5. 🎉 Merged PR [#5](https://github.com/jvzantvoort/mktodo/pull/5) in [jvzantvoort/mktodo](https://github.com/jvzantvoort/mktodo)
 <!--END_SECTION:activity-->
 
 ---
