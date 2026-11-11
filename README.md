@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.1](https://github.com/jvzantvoort/jdc-execution-engine/releases/tag/v1.2.1) in [jvzantvoort/jdc-execution-engine](https://github.com/jvzantvoort/jdc-execution-engine)
-2. 🗣 Commented on [#3](https://github.com/jvzantvoort/jdc-execution-engine/pull/3#issuecomment-6780648564) in [jvzantvoort/jdc-execution-engine](https://github.com/jvzantvoort/jdc-execution-engine)
-3. ❌ Closed PR [#3](https://github.com/jvzantvoort/jdc-execution-engine/pull/3) in [jvzantvoort/jdc-execution-engine](https://github.com/jvzantvoort/jdc-execution-engine)
-4. ❌ Closed PR [#2](https://github.com/jvzantvoort/jdc-execution-engine/pull/2) in [jvzantvoort/jdc-execution-engine](https://github.com/jvzantvoort/jdc-execution-engine)
-5. 🗣 Commented on [#2](https://github.com/jvzantvoort/jdc-execution-engine/pull/2#issuecomment-6780647855) in [jvzantvoort/jdc-execution-engine](https://github.com/jvzantvoort/jdc-execution-engine)
+1. 🚀 Published release [v1.3.0](https://github.com/jvzantvoort/jdc-execution-engine/releases/tag/v1.3.0) in [jvzantvoort/jdc-execution-engine](https://github.com/jvzantvoort/jdc-execution-engine)
+2. 🎉 Merged PR [#7](https://github.com/jvzantvoort/jdc-execution-engine/pull/7) in [jvzantvoort/jdc-execution-engine](https://github.com/jvzantvoort/jdc-execution-engine)
+3. 🎉 Merged PR [#6](https://github.com/jvzantvoort/jdc-execution-engine/pull/6) in [jvzantvoort/jdc-execution-engine](https://github.com/jvzantvoort/jdc-execution-engine)
+4. 💪 Opened PR [#7](https://github.com/jvzantvoort/jdc-execution-engine/pull/7) in [jvzantvoort/jdc-execution-engine](https://github.com/jvzantvoort/jdc-execution-engine)
+5. 💪 Opened PR [#6](https://github.com/jvzantvoort/jdc-execution-engine/pull/6) in [jvzantvoort/jdc-execution-engine](https://github.com/jvzantvoort/jdc-execution-engine)
 <!--END_SECTION:activity-->
 
 ---
