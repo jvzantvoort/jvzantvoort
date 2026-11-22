@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#56](https://github.com/jvzantvoort/scanner/pull/56) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
+1. 🎉 Merged PR [#56](https://github.com/jvzantvoort/scanner/pull/56) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
 2. ℹ️ Assigned PR [#56](https://github.com/jvzantvoort/scanner/pull/56) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
-3. 💪 Opened PR [#56](https://github.com/jvzantvoort/scanner/pull/56) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
-4. 🎉 Merged PR [#13](https://github.com/jvzantvoort/bundle-ui/pull/13) in [jvzantvoort/bundle-ui](https://github.com/jvzantvoort/bundle-ui)
-5. ❌ Closed PR [#12](https://github.com/jvzantvoort/bundle-ui/pull/12) in [jvzantvoort/bundle-ui](https://github.com/jvzantvoort/bundle-ui)
+3. ℹ️ Assigned PR [#56](https://github.com/jvzantvoort/scanner/pull/56) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
+4. 💪 Opened PR [#56](https://github.com/jvzantvoort/scanner/pull/56) in [jvzantvoort/scanner](https://github.com/jvzantvoort/scanner)
+5. 🎉 Merged PR [#13](https://github.com/jvzantvoort/bundle-ui/pull/13) in [jvzantvoort/bundle-ui](https://github.com/jvzantvoort/bundle-ui)
 <!--END_SECTION:activity-->
 
 ---
