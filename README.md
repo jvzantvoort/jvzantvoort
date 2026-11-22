@@ -5,11 +5,11 @@ Most of this stuff is useless, some of it is pointless all is made in good fun.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/jvzantvoort/bundle-server/pull/15) in [jvzantvoort/bundle-server](https://github.com/jvzantvoort/bundle-server)
-2. 💪 Opened PR [#15](https://github.com/jvzantvoort/bundle-server/pull/15) in [jvzantvoort/bundle-server](https://github.com/jvzantvoort/bundle-server)
-3. 🎉 Merged PR [#23](https://github.com/jvzantvoort/bundle/pull/23) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
-4. 💪 Opened PR [#23](https://github.com/jvzantvoort/bundle/pull/23) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
-5. 🎉 Merged PR [#22](https://github.com/jvzantvoort/bundle/pull/22) in [jvzantvoort/bundle](https://github.com/jvzantvoort/bundle)
+1. 🎉 Merged PR [#8](https://github.com/jvzantvoort/bundle-ui/pull/8) in [jvzantvoort/bundle-ui](https://github.com/jvzantvoort/bundle-ui)
+2. 💪 Opened PR [#8](https://github.com/jvzantvoort/bundle-ui/pull/8) in [jvzantvoort/bundle-ui](https://github.com/jvzantvoort/bundle-ui)
+3. 🎉 Merged PR [#4](https://github.com/jvzantvoort/python-bundle/pull/4) in [jvzantvoort/python-bundle](https://github.com/jvzantvoort/python-bundle)
+4. 💪 Opened PR [#4](https://github.com/jvzantvoort/python-bundle/pull/4) in [jvzantvoort/python-bundle](https://github.com/jvzantvoort/python-bundle)
+5. 🎉 Merged PR [#3](https://github.com/jvzantvoort/python-bundle/pull/3) in [jvzantvoort/python-bundle](https://github.com/jvzantvoort/python-bundle)
 <!--END_SECTION:activity-->
 
 ---
